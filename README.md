@@ -1,4 +1,5 @@
 # Basic Calculator (Python + Pytest + GitHub Actions)
+[![CI](https://github.com/Tejen1710/Cal-pro1/actions/workflows/ci.yml/badge.svg)](https://github.com/Tejen1710/Cal-pro1/actions/workflows/ci.yml)
 
 ## Setup
 ```bash
